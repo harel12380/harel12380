@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harel Barhai</h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
+<h3>View my portfolio at: <a href="https://harel12380.github.io/">harel12380.github.io</a></h3>
 <img
   align="right"
   alt="Coding"
