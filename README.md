@@ -160,24 +160,3 @@
   </a>
 </p>
 
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=harel12380&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="harel12380" />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=harel12380&show_icons=true&locale=en"
-    alt="harel12380" />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harel12380&"
-    alt="harel12380" />
-</p>
