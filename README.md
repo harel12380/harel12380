@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **barhai.harel@gmail.com**
 
-- ⚡ Fun fact **My Rubik's Cube-solving record stands at an 11 seconds!**
+- ⚡ Fun fact **My Rubik's Cube-solving record stands at 11 seconds!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
